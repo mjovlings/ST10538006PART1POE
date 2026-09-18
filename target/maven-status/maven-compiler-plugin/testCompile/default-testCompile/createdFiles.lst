@@ -1,0 +1,6 @@
+com\mycompany\main\MainTest$CheckUserNameTests.class
+com\mycompany\main\MainTest.class
+com\mycompany\main\MainTest$LoginUserTests.class
+com\mycompany\main\MainTest$ReturnLoginStatusTests.class
+com\mycompany\main\MainTest$CheckCellPhoneNumberTests.class
+com\mycompany\main\MainTest$CheckPasswordComplexityTests.class
